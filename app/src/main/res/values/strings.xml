@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">晨</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Sign_In Activity -->
+    <string name="title_activity_sign_in">SignIn</string>
+    <string name="signin_remenber_password">记住密码</string>
+    <string name="signin_auto_login">自动登录</string>
+    <string name="signin_button_login">登录</string>
+
+    <!-- APP Main -->
+    <string name="refresh">刷新</string>
+    <string name="quit">退出账户</string>
+
+    <!-- DeptListFragment -->
+    <string name="title_dept_listFragment">部门</string>
+
+    <!-- ContactsList -->
+    <string name="title_contacts_list">联系人</string>
+
+    <!-- Card Header -->
+    <string name="card_title_header">title_header</string>
+    <string name="text_view1">text_view1</string>
+    <string name="text_view2">text_view2</string>
+
+</resources>
